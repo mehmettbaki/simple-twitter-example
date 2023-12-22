@@ -12,7 +12,6 @@
   "dependencies": {
     "-": "^0.0.1",
     "dotenv": "^16.3.1",
-    "save": "^2.9.0",
     "twitter-api-v2": "^1.15.2"
   }
 }
